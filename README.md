@@ -47,7 +47,7 @@ I'm a programmer based in New Zealand who loves to contribute to open source and
   <a href="https://capacitorjs.com/"><img alt="Capacitor" height="32" width="32" src="/Stack/capacitor.svg" /></a>
   <a href="https://vuejs.org/"><img alt="Vue.js" height="32" width="32" src="/Stack/vuedotjs.svg" /></a>
   <a href="https://developer.mozilla.org/HTML/"><img alt="HTML5" height="32" width="32" src="/Stack/html5.svg" /></a>
-  <a href="https://developer.mozilla.org/HTML/"><img alt="CSS" height="32" width="32" src="/Stack/css3.svg" /></a>
+  <a href="https://developer.mozilla.org/CSS/"><img alt="CSS" height="32" width="32" src="/Stack/css3.svg" /></a>
 </p>
 <p align="left">
   <a href="https://www.adobe.com/products/illustrator.html/"><img alt="Adobe Illustrator" height="32" width="32" src="/Stack/adobeillustrator.svg" /></a>
