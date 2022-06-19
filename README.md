@@ -33,8 +33,8 @@ I'm a programmer based in New Zealand who loves to contribute to open source and
   
   💬 You can also find me on discord as [Alex123456#7890](https://discord.com/users/374405559002333204)!
   
-### Technologies
-  <p align="left">
+<h3 align=center> Technologies </h3>
+<p align=center>
   <a href="https://python.org"><img alt="Python" height="32" width="32" src="/Stack/python.svg" /></a>
   <a href="https://flutter.dev/"><img alt="Flutter" height="32" width="32" src="/Stack/flutter.svg" /></a>
   <a href="https://kotlinlang.org/"><img alt="Kotlin" height="32" width="32" src="/Stack/kotlin.svg" /></a>
@@ -49,7 +49,7 @@ I'm a programmer based in New Zealand who loves to contribute to open source and
   <a href="https://developer.mozilla.org/HTML/"><img alt="HTML5" height="32" width="32" src="/Stack/html5.svg" /></a>
   <a href="https://developer.mozilla.org/CSS/"><img alt="CSS" height="32" width="32" src="/Stack/css3.svg" /></a>
 </p>
-<p align="left">
+<p align=center>
   <a href="https://www.adobe.com/products/illustrator.html/"><img alt="Adobe Illustrator" height="32" width="32" src="/Stack/adobeillustrator.svg" /></a>
   <a href="https://www.adobe.com/products/photoshop.html/"><img alt="Adobe Photoshop" height="32" width="32" src="/Stack/adobephotoshop.svg" /></a>
   <a href="https://www.figma.com/"><img alt="Figma" height="32" width="32" src="/Stack/figma.svg" /></a>
