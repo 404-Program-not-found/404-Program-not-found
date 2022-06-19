@@ -29,7 +29,7 @@
 ### About me
 I'm a programmer based in New Zealand who loves to contribute to open source and learning new things. 
   
-  🌱 I'm currently working on [vuetube](https://github.com/vuetubeapp). 
+  🌱 I'm currently working on [VueTube](https://github.com/vuetubeapp). 
   
   💬 You can also find me on discord as [Alex123456#7890](https://discord.com/users/374405559002333204)!
   
