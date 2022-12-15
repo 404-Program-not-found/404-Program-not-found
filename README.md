@@ -1,5 +1,5 @@
 
-<h3 align="center"> 👋 Hi there, I’m Alex! </h3>
+<h1 align="center"> 👋 Hi there, I’m Alex! </h1>
 <p align="center"> 
   <a href="https://github.com/404-Program-not-found">
     <img alt="Follow me on Github" width="40px" src="/Contact/github.svg" />
@@ -23,8 +23,21 @@
 
 <br/>
 
-
-<image align="right" alt="404-Program-not-found's Github Stats" src="https://github-readme-stats.vercel.app/api?username=404-program-not-found&count_private=true&show_icons=true&theme=tokyonight&custom_title=Alex%27s%20Github%20Stats">
+<picture>
+  <source 
+    srcset="https://github-readme-stats.vercel.app/api?username=404-program-not-found&count_private=true&show_icons=true&theme=tokyonight&custom_title=Alex%27s%20Github%20Stats"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=404-program-not-found&count_private=true&show_icons=true&custom_title=Alex%27s%20Github%20Stats"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img 
+    align="right"
+    src="https://github-readme-stats.vercel.app/api?username=404-program-not-found&count_private=true&show_icons=true&custom_title=Alex%27s%20Github%20Stats" 
+    alt="404-Program-not-found's Github Stats"
+   />
+</picture>
 
 ### About me
 I'm a programmer based in New Zealand who loves to contribute to open source and learning new things. 
