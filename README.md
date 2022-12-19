@@ -12,6 +12,10 @@
   <a href="mailto: 404programnotfound@gmail.com">
     <img alt="Alex's Email" width="40px" src="/Contact/gmail.svg" />
   </a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://dev.to/404programnotfound">
+    <img alt="Follow me on dev.to" width="40px" src="/Contact/devdotto.svg" />
+  </a>
 </p>
 
 <p align="center">
