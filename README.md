@@ -9,7 +9,7 @@
     <img alt="Support me on ko-fi!" width="40px" src="/Contact/kofi.svg" />
   </a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="mailto: 404programnotfound@gmail.com">
+  <a href="mailto:hello@missingprogram.me">
     <img alt="Alex's Email" width="40px" src="/Contact/gmail.svg" />
   </a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
