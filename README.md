@@ -13,8 +13,8 @@
     <img alt="Alex's Email" width="40px" src="/Contact/gmail.svg" />
   </a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://dev.to/404programnotfound">
-    <img alt="Follow me on dev.to" width="40px" src="/Contact/devdotto.svg" />
+  <a href="https://missingprogram.me/">
+    <img alt="Visit my website" width="40px" src="/Contact/website.svg" />
   </a>
 </p>
 
