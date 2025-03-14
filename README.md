@@ -44,7 +44,7 @@
 </picture>
 
 ### About me
-I'm a programmer based in New Zealand who loves to contribute to open source and learning new things. 
+I'm a kiwi based in Melbourne who loves to contribute to open source and learning new things. 
   
   🌱 I'm currently working on `nothing public at the moment`
   
