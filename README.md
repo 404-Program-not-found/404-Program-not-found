@@ -1,19 +1,19 @@
 
 <h1 align="center"> 👋 Hi there, I’m Alex! </h1>
 <p align="center"> 
-  <a href="https://github.com/404-Program-not-found">
+  <a href="https://github.com/404-Program-not-found" style="text-decoration:none;">
     <img alt="Follow me on Github" width="40px" src="/Contact/github.svg" />
   </a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://ko-fi.com/404programnotfound">
+  <a href="https://ko-fi.com/404programnotfound" style="text-decoration:none;">
     <img alt="Support me on ko-fi!" width="40px" src="/Contact/kofi.svg" />
   </a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="mailto:hello@missingprogram.me">
+  <a href="mailto:hello@missingprogram.me" style="text-decoration:none;">
     <img alt="Alex's Email" width="40px" src="/Contact/gmail.svg" />
   </a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://missingprogram.me/">
+  <a href="https://missingprogram.me/" style="text-decoration:none;">
     <img alt="Visit my website" width="40px" src="/Contact/website.svg" />
   </a>
 </p>
