@@ -1,11 +1,11 @@
 
 <h1 align="center"> 👋 Hi there, I’m Alex! </h1>
 <p align="center"> 
-  <a href="https://github.com/404-Program-not-found" style="text-decoration:none;">
+  <a href="https://github.com/404-Program-not-found/" style="text-decoration:none;">
     <img alt="Follow me on Github" width="40px" src="/Contact/github.svg" />
   </a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://ko-fi.com/404programnotfound" style="text-decoration:none;">
+  <a href="https://ko-fi.com/404programnotfound/" style="text-decoration:none;">
     <img alt="Support me on ko-fi!" width="40px" src="/Contact/kofi.svg" />
   </a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
