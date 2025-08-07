@@ -29,16 +29,16 @@
 
 <picture>
   <source 
-    srcset="https://github-readme-stats.vercel.app/api?username=404-program-not-found&count_private=true&show_icons=true&theme=tokyonight&custom_title=Alex%27s%20Github%20Stats"
+    srcset="https://github-readme-stats.vercel.app/api?username=404-program-not-found&count_private=true&include_all_commits=true&rank_icon=percentile&show_icons=true&theme=tokyonight&custom_title=Alex%27s%20Github%20Stats"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=404-program-not-found&count_private=true&show_icons=true&custom_title=Alex%27s%20Github%20Stats"
+    srcset="https://github-readme-stats.vercel.app/api?username=404-program-not-found&count_private=true&include_all_commits=true&rank_icon=percentile&show_icons=true&custom_title=Alex%27s%20Github%20Stats"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
   <img 
     align="right"
-    src="https://github-readme-stats.vercel.app/api?username=404-program-not-found&count_private=true&show_icons=true&custom_title=Alex%27s%20Github%20Stats" 
+    src="https://github-readme-stats.vercel.app/api?username=404-program-not-found&count_private=true&include_all_commits=true&rank_icon=percentile&show_icons=true&custom_title=Alex%27s%20Github%20Stats" 
     alt="404-Program-not-found's Github Stats"
    />
 </picture>
